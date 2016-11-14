@@ -1,0 +1,26 @@
+This offer doesn't exist anymore. It was either bought entirely or removed by it's provider.
+
+You can buy maximum 1 products for this offer.
+
+======HOW TO GET THE CAPTCHA IMAGE=======
+
+check does the page have
+
+<textarea name="recaptcha_challenge_field"
+
+then, go to
+
+<iframe src="http://api.recaptcha.net/noscript?k=6LeWK7wSAAAAAA_QFoHVnY5HwVCb_CETsvrayFhu" height="300" width="500"
+
+6LeWK7wSAAAAAA_QFoHVnY5HwVCb_CETsvrayFhu
+
+that page, and then find the pic
+
+<img width="300" height="57" alt="" src="image?c=03AHJ_Vuvs3W1NUahyRojPGtAJwsnTyqhK9FkEjljcQdKGRhVsuzDhYjgE6o0NjjJFJfyd05vdgLnPV8ArrfYjS7ZcmErvRHqfUymIfcs_UYnX9S0fwjfzcF9iOTkRH3lHJ_gHFzDUpB8tuROHMkPID2ore49Pr2Zq8Q"></center>
+
+so we get to something like
+
+http://www.google.com/recaptcha/api/image?c=03AHJ_VusFKtZD05CbjT_U04I2JQ7o_IGlKYFClDL1TKkt20W6zIKWyNkgJBaDMSPyCApmsY6dq8Znaj2zd8ztO-NbRHrclYdJcQ9mqNhc2YmkEHcgEoPaqc01DLNykNwuVUhMabl9RnRz-xjM2_7ZPC2SAvK6HkTkHw
+
+===================================
+

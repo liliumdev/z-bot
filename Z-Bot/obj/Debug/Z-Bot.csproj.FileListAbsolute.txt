@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\bin\Debug\Z-Bot.exe
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\bin\Debug\Z-Bot.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\Z_Bot.Form1.resources
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\Z_Bot.Properties.Resources.resources
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\Z-Bot.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\Z-Bot.exe
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\obj\Debug\Z-Bot.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\bin\Debug\WatiN.Core.dll
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Ahmed\Documents\Visual Studio 2008\Projects\Z-Bot\Z-Bot\bin\Debug\WatiN.Core.xml

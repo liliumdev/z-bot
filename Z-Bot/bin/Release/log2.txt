@@ -1,0 +1,65 @@
+Starting ...
+Renewing IP ...
+------- [RingTabor] [109.175.71.34 -> 109.175.75.175] [1/49] -------
+------- [RingTabor] [No IP Renewing] [1/49] -------
+[USD : 63.05] [Gold : 0.01]
+Buying products ...
+Successfully bought products.
+Could not apply for a job.
+Eaten food before work.
+Worked.
+Trained.
+Logging out from [RingTabor]
+Encountered an error at account [RingTabor] : 
+WatiN.Core.Exceptions.TimeoutException: Timeout while Internet Explorer busy
+   at WatiN.Core.UtilityClasses.TryFuncUntilTimeOut.ThrowTimeOutException(Exception lastException, String message)
+   at WatiN.Core.UtilityClasses.TryFuncUntilTimeOut.HandleTimeOut()
+   at WatiN.Core.UtilityClasses.TryFuncUntilTimeOut.Try[T](DoFunc`1 func)
+   at WatiN.Core.WaitForCompleteBase.WaitUntil(DoFunc`1 waitWhile, BuildTimeOutExceptionMessage exceptionMessage)
+   at WatiN.Core.Native.InternetExplorer.IEWaitForComplete.WaitUntilNotNull(DoFunc`1 func, BuildTimeOutExceptionMessage exceptionMessage)
+   at WatiN.Core.Native.InternetExplorer.IEWaitForComplete.WaitWhileIEBusy(IWebBrowser2 ie)
+   at WatiN.Core.Native.InternetExplorer.IEWaitForComplete.WaitForCompleteOrTimeout()
+   at WatiN.Core.WaitForCompleteBase.DoWait()
+   at WatiN.Core.DomContainer.WaitForComplete(IWait waitForComplete)
+   at WatiN.Core.IE.WaitForComplete(Int32 waitForCompleteTimeOut)
+   at WatiN.Core.DomContainer.WaitForComplete()
+   at WatiN.Core.Browser.GoTo(Uri url)
+   at WatiN.Core.Browser.GoTo(String url)
+   at Z_Bot.Form1.Bot() in C:\Users\Ahmed\Desktop\Z-Bot\Z-Bot\Form1.cs:line 345
+
+
+Renewing IP ...
+------- [TwistHilly] [109.175.75.175 -> 109.175.75.241] [2/49] -------
+------- [TwistHilly] [No IP Renewing] [2/49] -------
+[USD : 45.68] [Gold : 12.19]
+Buying products ...
+Successfully bought products.
+Could not apply for a job.
+Eaten food before work.
+Worked.
+Trained.
+Logging out from [TwistHilly]
+------------------------------------------------------------------
+Renewing IP ...
+------- [JeraBase] [109.175.75.241 -> 109.175.76.59] [3/49] -------
+------- [JeraBase] [No IP Renewing] [3/49] -------
+[USD : 117.95] [Gold : 10.14]
+Buying products ...
+Successfully bought products.
+Could not apply for a job.
+Eaten food before work.
+Already worked today.
+Could not work.
+Already trained today.
+Could not train.
+Logging out from [JeraBase]
+------------------------------------------------------------------
+Renewing IP ...
+------- [RacerLean] [109.175.76.59 -> 109.175.76.105] [4/49] -------
+------- [RacerLean] [No IP Renewing] [4/49] -------
+[USD : 75.54] [Gold : 6.17]
+Buying products ...
+Successfully bought products.
+Applyed for a job.
+Eaten food before work.
+Captcha appeared ...

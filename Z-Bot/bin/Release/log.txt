@@ -1,0 +1,24 @@
+Starting ...
+------- [xxxxxxxxxxxx]  [1/1] -------
+Logging in ...
+[Gold : 7.71] [HRK : 13.25] [RON : 0] [BRL : 0.52] [FRF : 0] [DEM : 0.01] [HUF : 0.19] [CNY : 0.01] [ESP : 0.3] [CAD : 0.01] [USD : 0.01] [ARS : 0] [GBP : 0] [ATS : 0] [PLN : 0.01] [SEK : 0.01] [FIM : 0.01] [RUB : 0] [BGN : 0.01] [TRY : 0.01] [GRD : 0.02] [IDR : 0.01] [AUD : 0] [ZAR : 0] [PTE : 0.01] [SIT : 0.01] [RSD : 0.06] [MYR : 0.01] [SGD : 0.01] [BAM : 15.43] [EEK : 0] [LTL : 0] [KPW : 0.01] [BOB : 0] [PEN : 0.01] [MEP : 0]
+Buying products ...
+Buying products [Food Q1] [1]
+Successfully bought products.
+Getting a job ...
+We already have a job.
+Could not apply for a job.
+Eating 1 food.
+Eaten food before work.
+Going to work ...
+Already worked today.
+Could not work.
+Going to train ...
+Already trained today.
+Could not train.
+Logging out from [xxxxxxxxxxxx]
+Logging out
+------------------------------------------------------------------
+Renewing IP one last time
+
+Everything done! If you want to start again, please press Start again.

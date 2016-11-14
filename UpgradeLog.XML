@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Z-Bot">
+</Property><Property Name="Solution File" Value="D:\found.000\dir0000.chk\Z-Bot\Z-Bot.sln">
+</Property><Property Name="User Options File" Value="D:\found.000\dir0000.chk\Z-Bot\Z-Bot.suo">
+</Property><Property Name="Date" Value="4. septembar 2013">
+</Property><Property Name="Time" Value="22:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Z-Bot.sln" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Z-Bot.suo" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot.suo">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Z-Bot.csproj" Description="Project file successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Z-Bot.csproj">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Z-Bot.csproj.user" Description="Project user file successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Z-Bot.csproj.user">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Decaptcher.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Decaptcher.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Settings.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Form1.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Form1.Designer.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Program.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Program.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\app.manifest" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\Settings.settings" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\dragonball-1.ico" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\dragonball-1.ico">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Form1.resx" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Properties\Resources.resx" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot\Backup\Z-Bot\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Z-Bot.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Z-Bot" Source="Z-Bot\Z-Bot.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Z-Bot.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Z-Bot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Z-Bot" Source="Z-Bot\Z-Bot.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
